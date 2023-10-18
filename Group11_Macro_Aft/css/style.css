@@ -1,0 +1,82 @@
+.nav-link {
+    font-size: 20px;
+}
+
+a {
+    text-decoration: none !important;
+}
+
+
+.bg-primari {
+    background-color: #242D47;
+}
+
+.bg-blue {
+    background-color: #242D47;
+    position: relative;
+    top: 0;
+    left: 0;
+    height: 80vh;
+    width: 98.93vw;
+    z-index: -99;
+}
+
+.bg-blue-bright {
+    background-color: #DCEBF5;
+    height: 75vh;
+
+}
+
+.bg-blue-bright-35 {
+    background-color: #DCEBF5;
+    height: 35vh;
+
+
+}
+
+.h-100px {
+    min-height: 250px !important;
+}
+
+.bg-1 {
+    --bs-bg-opacity: 1;
+    background-color: #C3E0F4;
+}
+
+.bg-2 {
+    --bs-bg-opacity: 1;
+    background-color: #DCEBF5;
+}
+
+.bg-dark-1 {
+    --bs-bg-opacity: 1;
+    background-color: #EAEAE9;
+}
+
+
+
+.bg-secondary2 {
+    --bs-bg-opacity: 1;
+    background-color: #A4C3FF !important
+}
+
+.text-bg-tersier {
+    color: #424E66 !important;
+    background-color: #DBE7FF !important
+}
+
+/* Menu Fitur */
+.text-menu-fitur {
+    font-size: 16px;
+    color: black;
+}
+
+/* @media (max-width:768px) {
+    .mt-n3 {
+        margin-top: -3rem;
+    }
+
+    .no-visible-sm {
+        visibility: hidden !important;
+    }
+} */
